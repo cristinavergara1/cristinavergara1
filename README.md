@@ -1,7 +1,7 @@
 ## Hi  👋 I'm María Cristina 👩‍💻
 - 🎓 Systems Engineering Student | Systems Technician 
 
-- 🔧 Experience in technical support, hardware diagnostics, software installation, and basic networking
+- 🔧 Experience in technical support, hardware diagnostics, software installation, and basic network configuration
   
 - 🛠️ Skills in equipment maintenance, component soldering and Tinkercad simulation
 
