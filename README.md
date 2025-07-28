@@ -1,8 +1,11 @@
 ## Hi  👋 I'm María Cristina 👩‍💻
-🎓 Systems Engineering Student | Systems Technician 
-🔧 Experience in technical support | Hardware and software maintenance
-🌱 Currently learning computer security
-📫 How to reach me: crisquinchia@gmail.com
+- 🎓 Systems Engineering Student | Systems Technician 
+
+- 🔧 Experience in technical support | Hardware and software maintenance
+
+- 🌱 Currently learning computer security
+
+- 📫 How to reach me: crisquinchia@gmail.com
 
 <!--
 **cristinavergara1/cristinavergara1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
