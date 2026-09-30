@@ -9,9 +9,17 @@
 
 - 📫 How to reach me: crisquinchia@gmail.com
 
-## Github Stats  
+##  GitHub Activity
 
-![María Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinavergara1&show_icons=true&theme=radical&hide_border=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinavergara1&theme=radical&langs_count=15&layout=compact&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cristinavergara1&theme=github-compact&hide_border=true)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=cristinavergara1&theme=radical&hide_border=true)
+
+## 🏆 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cristinavergara1&theme=radical&no-frame=true&no-bg=true&margin-w=5)
 
 
 
