@@ -1,17 +1,18 @@
-## Hi  👋 I'm María Cristina 👩‍💻
-- 🎓 Systems Engineering Student | Systems Technician 
+## Hi 👋 I'm María Cristina 👩‍💻
 
-- 🔧 Experience in technical support, hardware diagnostics, software installation, and basic network configuration
-  
-- 🛠️ Skills in equipment maintenance, component soldering and Tinkercad simulation
+🎓 Systems Engineering Student | Systems Technician
 
-- 🌱 Currently learning computer security
+🔧 Background in technical support, hardware diagnostics, software installation, and basic network configuration.
 
-- 📫 How to reach me: crisquinchia@gmail.com
+💻 Interested in software development, infrastructure, cybersecurity, and software quality.
 
-## 💻 Most Used Languages
+📚 Currently learning Python automation and cybersecurity.
 
-![Most Used Languages](./profile/top-langs.svg)
+📫 How to reach me: crisquinchia@gmail.com
+
+## 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,nextjs,spring,postgres,mysql,git,github,docker,linux,vscode,postman,azure&perline=8)](https://skillicons.dev)
 
 
 
