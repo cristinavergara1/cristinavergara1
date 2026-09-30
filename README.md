@@ -9,17 +9,9 @@
 
 - 📫 How to reach me: crisquinchia@gmail.com
 
-##  GitHub Activity
+## 💻 Most Used Languages
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cristinavergara1&theme=github-compact&hide_border=true)
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=cristinavergara1&theme=radical&hide_border=true)
-
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cristinavergara1&theme=radical&no-frame=true&no-bg=true&margin-w=5)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinavergara1&layout=donut&theme=radical&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true)gin-w=5)
 
 
 
