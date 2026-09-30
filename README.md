@@ -11,7 +11,7 @@
 
 ## 💻 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinavergara1&layout=donut&theme=radical&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true)
+![Most Used Languages](./profile/top-langs.svg)
 
 
 
